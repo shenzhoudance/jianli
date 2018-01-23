@@ -1,11 +1,11 @@
 # 個人履歷 (Curriculum Vitae)
 
 
-![](images/YAN-JIANG.jpg)
+
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
 
 肖威, Wei-Xiao
-(www.caihuahengyi.cn)
+
 
 # 現職 (Current position)
 才华横溢科技（北京）有限责任公司 董事长
@@ -28,6 +28,8 @@ Department of performance，Jiangxi Normal University
 2007-2010 湖北省体育舞蹈学校 团支部 书记
 
 # 學習 (STUDY)
+
+2017.12.28 蛋人网 全栈营 线上 学员
 
 2017.10.16 孔壹学院 区块链 第一期 学员
 
@@ -80,10 +82,18 @@ Ruby on rails；React-Nation；Go-Beego；blockchain;
 FB粉絲團：
 Facebook：https://www.facebook.com/wei.xiao.39395
 
-微信公众账号：肖威洞察
+微信公众账号：肖威洞察 https://mp.weixin.qq.com/profile?src=3&timestamp=1516751791&ver=1&signature=gzMU7AQkhyGxJIMvfyenmjbOae60pxm7pn1ZORep6tWqtYm*jiKTh7R-0ZjY4vPpDw0YOY-L7pkP6yQoGudLRQ==
 
-今日头条账号：肖威
+今日头条账号：肖威 https://www.toutiao.com/c/user/6830006463/#mid=6829607654
 
-喜马拉雅账号：肖威大型人才研习社
+喜马拉雅账号：肖威大型人才研习社 http://www.ximalaya.com/20626154/album/12371050/
 
-知乎联络账号：肖威
+知乎联络账号：肖威 https://www.zhihu.com/people/xiaoweidongcha/activities
+
+个人作品：
+
+卓越法门：https://shenzhoudance1.gitbooks.io/zhuoyuefamen/content/
+
+缔造人生：https://shenzhoudance1.gitbooks.io/dizaorensheng/content/
+
+思想课：https://shenzhoudance1.gitbooks.io/sixiangke/content/

@@ -29,9 +29,9 @@ Department of performance，Jiangxi Normal University
 
 # 學習 (STUDY)
 
-孔壹学院 区块链 第七期 学员
+2017.10.16 孔壹学院 区块链 第一期 学员
 
-新生大学 全栈营 线上 第三期 学员
+2017.01.21 新生大学 全栈营 线上 第三期 学员
 
 # 舉辦 (HOLD)
 

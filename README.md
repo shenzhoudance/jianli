@@ -80,20 +80,36 @@ Ruby on rails；React-Nation；Go-Beego；blockchain;
 # 聯絡方式 (Contact with me as followings)
 
 FB粉絲團：
-Facebook：https://www.facebook.com/wei.xiao.39395
 
-微信公众账号：肖威洞察 https://mp.weixin.qq.com/profile?src=3&timestamp=1516751791&ver=1&signature=gzMU7AQkhyGxJIMvfyenmjbOae60pxm7pn1ZORep6tWqtYm*jiKTh7R-0ZjY4vPpDw0YOY-L7pkP6yQoGudLRQ==
+Facebook：
+https://www.facebook.com/wei.xiao.39395
 
-今日头条账号：肖威 https://www.toutiao.com/c/user/6830006463/#mid=6829607654
+微信公众账号：肖威洞察
 
-喜马拉雅账号：肖威大型人才研习社 http://www.ximalaya.com/20626154/album/12371050/
+ https://mp.weixin.qq.com/profile?src=3&timestamp=1516751791&ver=1&signature=gzMU7AQkhyGxJIMvfyenmjbOae60pxm7pn1ZORep6tWqtYm*jiKTh7R-0ZjY4vPpDw0YOY-L7pkP6yQoGudLRQ==
 
-知乎联络账号：肖威 https://www.zhihu.com/people/xiaoweidongcha/activities
+今日头条账号：肖威
 
-个人作品：
+https://www.toutiao.com/c/user/6830006463/#mid=6829607654
 
-卓越法门：https://shenzhoudance1.gitbooks.io/zhuoyuefamen/content/
+喜马拉雅账号：肖威大型人才研习社
 
-缔造人生：https://shenzhoudance1.gitbooks.io/dizaorensheng/content/
+http://www.ximalaya.com/20626154/album/12371050/
 
-思想课：https://shenzhoudance1.gitbooks.io/sixiangke/content/
+知乎联络账号：肖威
+
+https://www.zhihu.com/people/xiaoweidongcha/activities
+
+# 個人作品 (Personal Works)
+
+《卓越法门》 肖威著
+
+https://shenzhoudance1.gitbooks.io/zhuoyuefamen/content/
+
+《缔造人生》 肖威著
+
+https://shenzhoudance1.gitbooks.io/dizaorensheng/content/
+
+《改变命运的88堂思想课》 肖威著
+
+https://shenzhoudance1.gitbooks.io/sixiangke/content/

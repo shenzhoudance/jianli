@@ -112,11 +112,13 @@ Department of performance，Jiangxi Normal University
 
 ## 舉辦 (HOLD)
 
-2017.12.31 北京海淀 举办才华横溢产品发布会
+2017.12.31 北京海淀 举办 才华横溢产品发布会
 
 2017.10.26 北京海淀 举办 Ruby & Go技术分享会
 
 ## 參與 (PARTY)
+
+2018.01.24 北京朝阳 参与 微软加速器 第10期 Demo Day活动
 
 2018.01.21 北京昌平 参与 AR学院首次线下交流活动
 

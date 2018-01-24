@@ -27,7 +27,7 @@ Department of performance，Jiangxi Normal University
 
 2007-2010 湖北省体育舞蹈学校 团支部 书记
 
-# 學習 (STUDY)
+## 學習 (STUDY)
 
 2017.12.28 蛋人网 全栈营 线上 学员
 
@@ -35,13 +35,13 @@ Department of performance，Jiangxi Normal University
 
 2017.01.21 新生大学 全栈营 线上 第三期 学员
 
-# 舉辦 (HOLD)
+## 舉辦 (HOLD)
 
 2017.12.31 北京海淀 举办才华横溢产品发布会
 
 2017.10.26 北京海淀 举办 Ruby & Go技术分享会
 
-# 參與 (PARTY)
+## 參與 (PARTY)
 
 2018.01.21 北京昌平 参与 AR学院首次线下交流活动
 

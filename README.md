@@ -59,22 +59,22 @@ https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
 
 # 聯絡方式 (Contact with me as followings)
 
-FB粉絲團：Facebook：
+❶ FB粉絲團：Facebook：
 https://www.facebook.com/wei.xiao.39395
 
-微信公众账号：肖威洞察
+❷ 微信公众账号：肖威洞察
 
  https://mp.weixin.qq.com/profile?src=3&timestamp=1516751791&ver=1&signature=gzMU7AQkhyGxJIMvfyenmjbOae60pxm7pn1ZORep6tWqtYm*jiKTh7R-0ZjY4vPpDw0YOY-L7pkP6yQoGudLRQ==
 
-今日头条账号：肖威
+❸ 今日头条账号：肖威
 
 https://www.toutiao.com/c/user/6830006463/#mid=6829607654
 
-喜马拉雅账号：肖威大型人才研习社
+❹ 喜马拉雅账号：肖威大型人才研习社
 
 http://www.ximalaya.com/20626154/album/12371050/
 
-知乎联络账号：肖威
+❺ 知乎联络账号：肖威
 
 https://www.zhihu.com/people/xiaoweidongcha/activities
 

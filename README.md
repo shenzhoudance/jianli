@@ -78,6 +78,8 @@ http://www.ximalaya.com/20626154/album/12371050/
 
 https://www.zhihu.com/people/xiaoweidongcha/activities
 
+❻ 微信个人账号：肖威
+[![](images/weixin.jpeg)](www.caihuahengyi.cn)
 ---
 
 

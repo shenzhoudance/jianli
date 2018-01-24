@@ -15,17 +15,47 @@ Chairman，Brilliant science and Technology (Beijing) Company with limited liabi
 
 # 個人作品 (Personal Works)
 
-《卓越法门》 肖威著
+❶ 《卓越法门》 肖威著  (2014.05.08-2015.08.08)
 
 https://shenzhoudance1.gitbooks.io/zhuoyuefamen/content/
 
-《缔造人生》 肖威著
+❷ 《缔造人生》 肖威著  (2015.08.08-2016.01.18)
 
 https://shenzhoudance1.gitbooks.io/dizaorensheng/content/
 
-《改变命运的88堂思想课》 肖威著
+❸ 《改变命运的88堂思想课》 肖威著 (2016.01.18-2016.05.18)
 
 https://shenzhoudance1.gitbooks.io/sixiangke/content/
+
+❹ 《世界纵横》肖威著  (2016.05.18-2016.09.18)
+
+https://shenzhoudance1.gitbooks.io/shijiezongheng/content/
+
+❺ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+
+https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+
+<!--❻ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+
+https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+
+❼ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+
+https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+
+❽ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+
+https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+
+❾ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+
+https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+
+❿ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+
+https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+
+!-->
 
 # 聯絡方式 (Contact with me as followings)
 

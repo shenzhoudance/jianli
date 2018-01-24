@@ -73,7 +73,7 @@ https://www.toutiao.com/c/user/6830006463/#mid=6829607654
 ❹ 喜马拉雅账号：肖威大型人才研习社
 
 http://www.ximalaya.com/20626154/album/12371050/
-o
+
 ❺ 知乎联络账号：肖威
 
 https://www.zhihu.com/people/xiaoweidongcha/activities

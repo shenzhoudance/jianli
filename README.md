@@ -60,6 +60,7 @@ https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
 # 聯絡方式 (Contact with me as followings)
 
 ❶ FB粉絲團：Facebook：
+
 https://www.facebook.com/wei.xiao.39395
 
 ❷ 微信公众账号：肖威洞察

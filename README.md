@@ -35,19 +35,19 @@ https://shenzhoudance1.gitbooks.io/shijiezongheng/content/
 
 https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
 
-<!--❻ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+❻ 《增量思维》肖威著  (2017.04.18-2017.07.18)
 
-https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+https://shenzhoudance1.gitbooks.io/zengliangsiwei/content/
 
-❼ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+❼ 《逆袭：解放时间的快刀》肖威著  (2017.08.18-2017.12.28)
 
-https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+https://shenzhoudance1.gitbooks.io/kuaidaonixi/content/
 
-❽ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+❽ 《创业圣经：打造才华横溢的秘籍》肖威著  (2017.08.28-2018.08.28)
 
-https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
 
-❾ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+<!--❾ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
 
 https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
 
@@ -73,7 +73,7 @@ https://www.toutiao.com/c/user/6830006463/#mid=6829607654
 ❹ 喜马拉雅账号：肖威大型人才研习社
 
 http://www.ximalaya.com/20626154/album/12371050/
-
+o
 ❺ 知乎联络账号：肖威
 
 https://www.zhihu.com/people/xiaoweidongcha/activities

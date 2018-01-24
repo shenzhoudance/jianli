@@ -13,6 +13,23 @@
 Chairman，Brilliant science and Technology (Beijing) Company with limited liability
 
 
+# 個人作品 (Personal Works)
+
+《卓越法门》 肖威著
+
+https://shenzhoudance1.gitbooks.io/zhuoyuefamen/content/
+
+《缔造人生》 肖威著
+
+https://shenzhoudance1.gitbooks.io/dizaorensheng/content/
+
+《改变命运的88堂思想课》 肖威著
+
+https://shenzhoudance1.gitbooks.io/sixiangke/content/
+
+---
+
+
 # 學歷 (Education)
 江西师范大学表演系
 
@@ -106,17 +123,3 @@ http://www.ximalaya.com/20626154/album/12371050/
 知乎联络账号：肖威
 
 https://www.zhihu.com/people/xiaoweidongcha/activities
-
-# 個人作品 (Personal Works)
-
-《卓越法门》 肖威著
-
-https://shenzhoudance1.gitbooks.io/zhuoyuefamen/content/
-
-《缔造人生》 肖威著
-
-https://shenzhoudance1.gitbooks.io/dizaorensheng/content/
-
-《改变命运的88堂思想课》 肖威著
-
-https://shenzhoudance1.gitbooks.io/sixiangke/content/

@@ -47,11 +47,11 @@ https://shenzhoudance1.gitbooks.io/kuaidaonixi/content/
 
 https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
 
-<!--❾ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+❾ 《肖威领导力·音频课程》肖威著  (2018.01.01-2018.12.31)
 
-https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+http://www.ximalaya.com/20626154/album/12371050/
 
-❿ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+<!--❿ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
 
 https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
 

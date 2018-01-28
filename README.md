@@ -111,6 +111,8 @@ Department of performance，Jiangxi Normal University
 
 2018.01.29 麦子学院 Ruby on Rails 在线 学习；
 
+2018.01.14 丽亭华苑 微信智能机器人 线下 学习；
+
 2017.12.28 蛋人网 Ruby on Rails，React-Native，微信公众账号开发，在线 学习；
 
 2017.10.21 心动网络 Go-Beego 线下 学习；

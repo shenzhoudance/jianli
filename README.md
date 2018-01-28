@@ -10,6 +10,8 @@
 # 現職 (Current position)
 才华横溢科技（北京）有限责任公司 董事长
 
+帮助普通人通过在线职业技能学习改变自己的命运
+
 Chairman，Brilliant science and Technology (Beijing) Company with limited liability
 
 

@@ -14,6 +14,16 @@
 
 Chairman，Brilliant science and Technology (Beijing) Company with limited liability
 
+# 風采展示（Demo display）
+
+WHY:为什么 做 才华横溢 ？
+
+HOW:才华横溢 应该 如何做 ？
+
+WHAT:才华横溢 要做 什么 ？
+
+http://www.iqiyi.com/w_19rwm5cz3p.html
+
 
 # 個人作品 (Personal Works)
 

@@ -109,11 +109,15 @@ Department of performance，Jiangxi Normal University
 
 ## 學習 (STUDY)
 
-2017.12.28 蛋人网 全栈营 线上 学员
+2018.01.29 麦子学院 Ruby on Rails 在线 学习；
 
-2017.10.16 孔壹学院 区块链 第一期 学员
+2017.12.28 蛋人网 Ruby on Rails，React-Native，微信公众账号开发，在线 学习；
 
-2017.01.21 新生大学 全栈营 线上 第三期 学员
+2017.10.21 心动网络 Go-Beego 线下 学习；
+
+2017.10.16 孔壹学院 block-chain 线下 学习；
+
+2017.01.21 新生大学 Ruby on Rails 在线 学习；
 
 ## 舉辦 (HOLD)
 

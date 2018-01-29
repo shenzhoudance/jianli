@@ -63,7 +63,7 @@ https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
 
 http://www.ximalaya.com/20626154/album/12371050/
 
-❿ 《懂你时间：在线教育网站开发》肖威著  (2017.01.28-2017.03.06)
+❿ 《懂你时间：在线教育网站开发》肖威著  (2018.01.28-2018.03.06)
 
 https://caihuahengyicss.herokuapp.com/
 
@@ -166,7 +166,7 @@ Department of performance，Jiangxi Normal University
 
 国家一级教师
 
-国际一级裁判
+国家一级裁判
 
 Teachers at the national level
 

@@ -63,11 +63,11 @@ https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
 
 http://www.ximalaya.com/20626154/album/12371050/
 
-<!--❿ 《知识赋能》肖威著  (2017.02.18-2017.04.18)
+❿ 《懂你时间：在线教育网站开发》肖威著  (2017.01.28-2017.03.06)
 
-https://shenzhoudance1.gitbooks.io/zhishifuneng/content/
+https://caihuahengyicss.herokuapp.com/
 
-!-->
+
 
 # 聯絡方式 (Contact with me as followings)
 
@@ -77,7 +77,7 @@ https://www.facebook.com/wei.xiao.39395
 
 ❷ 微信公众账号：肖威洞察
 
- https://mp.weixin.qq.com/profile?src=3&timestamp=1516751791&ver=1&signature=gzMU7AQkhyGxJIMvfyenmjbOae60pxm7pn1ZORep6tWqtYm*jiKTh7R-0ZjY4vPpDw0YOY-L7pkP6yQoGudLRQ==
+xiaoweidongcha
 
 ❸ 今日头条账号：肖威
 

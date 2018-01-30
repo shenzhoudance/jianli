@@ -12,6 +12,8 @@
 
 帮助普通人通过在线职业技能学习改变自己的命运
 
+跟随那些有结果的人学习，才能快速帮助自己获取成功
+
 Chairman，Brilliant science and Technology (Beijing) Company with limited liability
 
 # 風采展示（Demo display）

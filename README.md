@@ -169,20 +169,21 @@ Department of performance，Jiangxi Normal University
 ❺ 支付逻辑（我们如何完成产品的支付逻辑的实现）
 
 ---
+2018.01.31 实验楼 Ruby on Rails 在线 学习 基础知识的优化；
 
-2018.01.30 宁浩网 Ruby on Rails 在线 学习；
+2018.01.30 宁浩网 Ruby on Rails 在线 学习 微信在线支付的逻辑结构；
 
-2018.01.29 麦子学院 Ruby on Rails 在线 学习；
+2018.01.29 麦子学院 Ruby on Rails 在线 学习 云端部署和编辑器的使用；
 
-2018.01.14 丽亭华苑 微信智能机器人 线下 学习；
+2018.01.14 丽亭华苑 微信智能机器人 线下 学习 微信智能机器人的使用；
 
-2017.12.28 蛋人网 Ruby on Rails，React-Native，微信公众账号开发，在线 学习；
+2017.12.28 蛋人网 Ruby on Rails，React-Native，微信公众账号开发，在线 学习 三端运作逻辑；
 
-2017.10.21 心动网络 Go-Beego 线下 学习；
+2017.10.21 心动网络 Go-Beego 线下 学习 Go语言运行逻辑；
 
-2017.10.16 孔壹学院 block-chain 线下 学习；
+2017.10.16 孔壹学院 block-chain 线下 学习 区块链项目开发；
 
-2017.01.21 新生大学 Ruby on Rails 在线 学习；
+2017.01.21 新生大学 Ruby on Rails 在线 学习 论坛网站、招聘网站、电商网站制作；
 
 ## 舉辦 (HOLD)
 

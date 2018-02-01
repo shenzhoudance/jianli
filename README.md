@@ -169,6 +169,9 @@ Department of performance，Jiangxi Normal University
 ❺ 支付逻辑（我们如何完成产品的支付逻辑的实现）
 
 ---
+
+2018.02.01 清华大学icenter区块链技术开发公开课 在线 学习 区块链底层知识结构；
+
 2018.01.31 实验楼 Ruby on Rails 在线 学习 基础知识的优化；
 
 2018.01.30 宁浩网 Ruby on Rails 在线 学习 微信在线支付的逻辑结构；

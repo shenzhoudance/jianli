@@ -213,7 +213,7 @@ Department of performance，Jiangxi Normal University
 
 ## 參與 (PARTY)
 
-2018.02.02 北京朝阳 参与 墨刀茶话会 
+2018.02.02 北京朝阳 参与 墨刀茶话会 1
 
 2018.01.24 北京朝阳 参与 微软加速器 第10期 Demo Day活动
 

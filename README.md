@@ -65,10 +65,17 @@ https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
 
 http://www.ximalaya.com/20626154/album/12371050/
 
-❿ 《懂你时间：在线教育网站开发》肖威著  (2018.01.28-2018.03.06)
+❿ 《职场生存指南》肖威著  (2018.01.01-2018.12.31)
+
+# 網絡作品（The NetWork）
+
+❶ 《懂你时间：在线教育网站开发》肖威著  (2018.01.28-2018.02.01)
 
 https://caihuahengyicss.herokuapp.com/
 
+❷ 《留言管理：在线留言面板》肖威著  (2018.02.03-2018.02.03)
+
+https://caihuamessageapp.herokuapp.com/
 
 # 技能特訓（Skill training）
 

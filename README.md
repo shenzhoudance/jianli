@@ -27,7 +27,29 @@ WHAT:才华横溢 要做 什么 ？
 http://www.iqiyi.com/w_19rwm5cz3p.html
 
 
-# 個人作品 (Personal Works)
+# 最新思想作品（The NetWork）
+
+❶ 《肖威领导力·音频课程》肖威著  (2018.01.01-2018.12.31)
+
+http://www.ximalaya.com/20626154/album/12371050/
+
+❷ 《职场生存指南》肖威著  (2018.01.01-2018.12.31)
+
+https://shenzhoudance1.gitbooks.io/caihuathink/content/
+
+
+# 網絡作品（The NetWork）
+
+❶ 《懂你时间：在线教育网站开发》肖威著  (2018.01.28-2018.02.01)
+
+https://caihuahengyicss.herokuapp.com/
+
+❷ 《留言管理：在线留言面板》肖威著  (2018.02.03-2018.02.03)
+
+https://caihuamessageapp.herokuapp.com/
+
+
+# 個人思想作品 (Personal Works)
 
 ❶ 《卓越法门》 肖威著  (2014.05.08-2015.08.08)
 
@@ -61,21 +83,7 @@ https://shenzhoudance1.gitbooks.io/kuaidaonixi/content/
 
 https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
 
-❾ 《肖威领导力·音频课程》肖威著  (2018.01.01-2018.12.31)
 
-http://www.ximalaya.com/20626154/album/12371050/
-
-❿ 《职场生存指南》肖威著  (2018.01.01-2018.12.31)
-
-# 網絡作品（The NetWork）
-
-❶ 《懂你时间：在线教育网站开发》肖威著  (2018.01.28-2018.02.01)
-
-https://caihuahengyicss.herokuapp.com/
-
-❷ 《留言管理：在线留言面板》肖威著  (2018.02.03-2018.02.03)
-
-https://caihuamessageapp.herokuapp.com/
 
 # 技能特訓（Skill training）
 

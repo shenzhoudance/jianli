@@ -189,6 +189,10 @@ Department of performance，Jiangxi Normal University
 
 ---
 
+2018.02.12 硅谷live 智能合约开发课 在线 学习 智能合约逻辑体系；
+
+2018.02.11 小专栏 区块链技术 在线 学习 区块链项目逻辑；
+
 2018.02.01 清华大学icenter区块链技术开发公开课 在线 学习 区块链底层知识结构；
 
 2018.01.31 实验楼 Ruby on Rails 在线 学习 基础知识的优化；

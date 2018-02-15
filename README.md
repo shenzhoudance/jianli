@@ -153,11 +153,17 @@ https://www.zhihu.com/people/xiaoweidongcha/activities
 
 
 # 學歷 (Education)
-江西师范大学表演系
 
-Department of performance，Jiangxi Normal University
+谷歌大学  计算机科学与人工智能 博士
+
+Computer Science and Artificial Intelligence Ph.D，Google University
+
+江西师范大学 文学学士
+
+Bachelor of Arts，Jiangxi Normal University
 
 # 經歷 (Career)
+
 2017-2018 才华横溢科技（北京）有限责任公司 董事长
 
 2014-2017 湖北省神洲舞蹈学校 副校长

@@ -53,7 +53,7 @@ https://caihuahengyicss.herokuapp.com/
 https://caihuamessageapp.herokuapp.com/
 
 
-# 個人思想作品 (Personal Works)
+# 個人思想作品 (Personal Works) ❶❷❷❸❹❺❻❼❽❾❿
 
 ❶ 《卓越法门》 肖威著  (2014.05.08-2015.08.08)
 
@@ -86,6 +86,10 @@ https://shenzhoudance1.gitbooks.io/kuaidaonixi/content/
 ❽ 《创业圣经：打造才华横溢的秘籍》肖威著  (2017.08.28-2018.08.28)
 
 https://shenzhoudance1.gitbooks.io/xiaoweiwork/content/
+
+❾ 《撕裂式成长》肖威著  (2018.01.01-2018.12.31)
+
+https://shenzhoudance1.gitbooks.io/caihuathink/content/
 
 
 

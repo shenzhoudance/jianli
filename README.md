@@ -180,7 +180,8 @@ Bachelor of Arts，Jiangxi Normal University
 
 2001-2004 湖北省实验初中 生活委员
 
-1998-2001 湖北省实验小学 生活委员
+1988-2001 湖北省实验小学 生活委员
+
 
 
 ## 學習 (STUDY)

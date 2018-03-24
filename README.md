@@ -3,7 +3,7 @@
 
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
-
+[![](images/qukuailian.jpg)](www.caihuahengyi.cn)
 
 # 肖威个人简历
 
@@ -17,11 +17,11 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 工作经历
 
-## 2017年8月 至 2018年3月 才华横溢创办人兼首席执行官
+## 才华横溢创办人兼首席执行官（2017年8月 至 2018年3月 ）
 
 - 负责公司的团队管理，产品研发，行政事务，财务对接；
 
-## 2014年6月 至 2017年8月 神洲舞蹈学校副校长
+## 神洲舞蹈学校副校长（2014年6月 至 2017年8月 ）
 
 - 负责学校的教学事务，行政事务，财务事务，管理事务；
 
@@ -65,7 +65,11 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 教育经历
 
-- 江西师范大学本科（体育表演）2010年6月 至 2014年6月
+- 孔壹学院区块链 （职业培训） 2017年10月 至 2017年12月
+
+- 新生大学软件学院（职业培训）2017年01月 至 2017年12月
+
+- 江西师范大学本科（体育表演）2010年06月 至 2014年06月
 
 
 ---

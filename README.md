@@ -4,6 +4,89 @@
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
 
+
+# 肖威个人简历
+
+电话：+86 15701587150 邮件：494410617@qq.com 
+
+Github：https://github.com/shenzhoudance Sina: https://weibo.com/busxiaowei
+
+# 个人简介
+
+- 才华横溢创办人兼首席执行官。创办：superxschool.com 。
+
+# 工作经历
+
+## 2017年8月 至 2018年3月 才华横溢创办人兼首席执行官
+
+- 负责公司的团队管理，产品研发，行政事务，财务对接；
+
+## 2014年6月 至 2017年8月 神洲舞蹈学校副校长
+
+- 负责学校的教学事务，行政事务，财务事务，管理事务；
+
+
+# 独立项目
+
+- Dribbble
+- notenote
+- form
+- wiki
+- workout_log
+- jobs_board
+- todo
+- movie_review
+- pin_board
+- recipe_box
+- blog
+- raddit
+
+# 所获奖项
+
+- 2017年10月 荣获 Go Hack shanghai 比赛 优胜奖；
+
+# 其他技能
+
+- 网页端开发 Ruby on Rails
+- 移动端开发 React Native & Android & iOS & Mini
+- 微信端开发 JavaScript
+- 区块链开发 Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
+
+# 教育经历
+
+- 江西师范大学本科（体育表演）2010年6月 至 2014年6月
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
 介绍一下你自己和所做的工作。
 
 肖威, 在线教育公司 才华横溢 创始人兼 CEO 。本科毕业于江西师范大学，2017 年新生大学软件学院毕业后北上，2018 年创立了面向普通人提供 在线职业技能 服务的公司——才华横溢。
@@ -79,6 +162,8 @@ https://caihuahengyicss.herokuapp.com/
 ❷ 《留言管理：在线留言面板》肖威著  (2018.02.03-2018.02.03)
 
 https://caihuamessageapp.herokuapp.com/
+
+❸
 
 
 # 個人思想作品 (Personal Works) ❶❷❷❸❹❺❻❼❽❾❿

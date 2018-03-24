@@ -28,7 +28,7 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 独立项目
 
-- Dribbble https://github.com/shenzhoudance/dribbble
+- muse https://github.com/shenzhoudance/muse
 
 - notenote https://github.com/shenzhoudance/notenote
 

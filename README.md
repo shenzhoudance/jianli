@@ -65,7 +65,7 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 教育经历
 
-- 孔壹学院职业学院（技能培训） 2017年10月 至 2017年12月
+- 孔壹学院职业学院（技能培训）2017年10月 至 2017年12月
 
 - 新生大学软件学院（技能培训）2017年01月 至 2017年12月
 

@@ -28,53 +28,29 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 独立项目
 
-- Dribbble
+- Dribbble https://github.com/shenzhoudance/dribbble
 
-https://github.com/shenzhoudance/dribbble
+- notenote https://github.com/shenzhoudance/notenote
 
-- notenote
+- form https://github.com/shenzhoudance/form
 
-https://github.com/shenzhoudance/notenote
+- wiki https://github.com/shenzhoudance/wiki
 
-- form
+- workout_log https://github.com/shenzhoudance/workout_log
 
-https://github.com/shenzhoudance/form
+- jobs_board https://github.com/shenzhoudance/jobs_board
 
-- wiki
+- todo https://github.com/shenzhoudance/todo
 
-https://github.com/shenzhoudance/wiki
+- movie_review https://github.com/shenzhoudance/movie_review
 
-- workout_log
+- pin_board https://github.com/shenzhoudance/pin_board
 
-https://github.com/shenzhoudance/workout_log
+- recipe_box https://github.com/shenzhoudance/recipe_box
 
-- jobs_board
+- blog https://github.com/shenzhoudance/blog101
 
-https://github.com/shenzhoudance/jobs_board
-
-- todo
-
-https://github.com/shenzhoudance/todo
-
-- movie_review
-
-https://github.com/shenzhoudance/movie_review
-
-- pin_board
-
-https://github.com/shenzhoudance/pin_board
-
-- recipe_box
-
-https://github.com/shenzhoudance/recipe_box
-
-- blog
-
-https://github.com/shenzhoudance/blog101
-
-- raddit
-
-https://github.com/shenzhoudance/raddit
+- raddit https://github.com/shenzhoudance/raddit
 
 # 所获奖项
 

@@ -71,7 +71,7 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 - 江西师范大学本科（体育表演）2010年06月 至 2014年06月
 
-
+# 加强学习，提升技能，强化管理，打造产品，做好销售，是当下优化自我简历价值，提升人力资本的最好的办法。
 ---
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
 

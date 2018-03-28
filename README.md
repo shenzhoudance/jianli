@@ -35,18 +35,14 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 独立项目
 
-- demo_blog (包含：功能 + 评论 + 设计)
+demo_blog (包含：功能 + 评论 + 设计)
 
-Github Repo:
-
-https://github.com/shenzhoudance/demo_blog
+- Github Repo: https://github.com/shenzhoudance/demo_blog
 
 
-- muse  (包含：功能 + 用户 + 设计 + 投票 + 部署)
+muse  (包含：功能 + 用户 + 设计 + 投票 + 部署)
 
-Github Repo:
-
-https://github.com/shenzhoudance/muse
+- Github Repo: https://github.com/shenzhoudance/muse
 
 
 

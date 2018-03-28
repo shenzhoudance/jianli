@@ -35,20 +35,25 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 独立项目
 
+- demo_blog (包含：功能 + 评论 + 设计)
+
+Github Repo:
+
+https://github.com/shenzhoudance/demo_blog
+
+
 - muse  (包含：功能 + 用户 + 设计 + 投票 + 部署)
 
 Github Repo:
 
 https://github.com/shenzhoudance/muse
 
-Visit this website:
-
-https://xiaoweimuse.herokuapp.com/
 
 
 # 所获奖项
 
 - 2017年10月 荣获 Go Hack shanghai 比赛 优胜奖；
+
 
 # 其他技能
 
@@ -60,6 +65,7 @@ https://xiaoweimuse.herokuapp.com/
 
 - 区块链开发 Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
 
+
 # 教育经历
 
 - 微信程序开发大赛（技能培训）2018年03月 至 2018年05月
@@ -69,6 +75,7 @@ https://xiaoweimuse.herokuapp.com/
 - 新生大学软件学院（技能培训）2017年01月 至 2017年12月
 
 - 江西师范大学本科（体育表演）2010年06月 至 2014年06月
+
 
 # 人生感悟
 

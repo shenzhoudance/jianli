@@ -17,40 +17,27 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 工作经历
 
-才华横溢科技（北京）有限责任公司 创办人兼首席执行官（2017年8月 至 2018年3月 ）
+才华横溢科技（北京）有限责任公司 创办人兼首席执行官（ 2017年8月 至 2018年3月 ）
 
 - 负责公司的团队管理，产品研发，行政事务，财务对接；
 
-沙洋神洲舞蹈学校 副校长（2014年6月 至 2017年8月 ）
+沙洋神洲舞蹈学校 副校长（ 2014年6月 至 2017年8月 ）
 
 - 负责学校的教学事务，行政事务，财务事务，管理事务；
 
 
 # 独立项目
 
-- muse https://github.com/shenzhoudance/muse
+- muse  (包含：功能 + 用户 + 设计 + 投票 + 部署)
 
-- notenote https://github.com/shenzhoudance/notenote
+Github Repo:
 
-- form https://github.com/shenzhoudance/form
+https://github.com/shenzhoudance/muse
 
-- wiki https://github.com/shenzhoudance/wiki
+Visit this website:
 
-- workout_log https://github.com/shenzhoudance/workout_log
+https://xiaoweimuse.herokuapp.com/
 
-- jobs_board https://github.com/shenzhoudance/jobs_board
-
-- todo https://github.com/shenzhoudance/todo
-
-- movie_review https://github.com/shenzhoudance/movie_review
-
-- pin_board https://github.com/shenzhoudance/pin_board
-
-- recipe_box https://github.com/shenzhoudance/recipe_box
-
-- blog https://github.com/shenzhoudance/blog101
-
-- raddit https://github.com/shenzhoudance/raddit
 
 # 所获奖项
 
@@ -58,12 +45,14 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 其他技能
 
-- 网页端开发 Ruby on Rails
+- 网页端开发 Ruby on Rails & HTML & CSS & JavaScript
 - 移动端开发 React Native & Android & iOS & Mini
 - 微信端开发 JavaScript
 - 区块链开发 Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
 
 # 教育经历
+
+- 微信程序开发大赛（技能培训）2018年03月 至 2018年05月
 
 - 孔壹学院职业学院（技能培训）2017年10月 至 2017年12月
 

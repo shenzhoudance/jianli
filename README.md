@@ -11,9 +11,16 @@
 
 Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
+
 # 个人简介
 
 - 才华横溢创办人兼首席执行官。创办：superxschool.com 。
+
+
+# 投资经历
+
+才华横溢科技（北京）有限责任公司 股东（ 2017年8月 至 2018年3月 ）
+
 
 # 工作经历
 
@@ -46,8 +53,11 @@ https://xiaoweimuse.herokuapp.com/
 # 其他技能
 
 - 网页端开发 Ruby on Rails & HTML & CSS & JavaScript
+
 - 移动端开发 React Native & Android & iOS & Mini
+
 - 微信端开发 JavaScript
+
 - 区块链开发 Solidity & Web3.js & Truffle & Hyperledger Fabric & IPFS
 
 # 教育经历

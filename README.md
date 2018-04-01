@@ -35,6 +35,11 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 独立项目
 
+Dribbble(包括：功能 + 查看 + 喜欢 + 评论 + 用户 + 图片)
+
+- Github Repo: https://github.com/shenzhoudance/dribbble_clone
+
+
 demo_blog (包含：功能 + 评论 + 设计)
 
 - Github Repo: https://github.com/shenzhoudance/demo_blog
@@ -352,7 +357,11 @@ Bachelor of Arts，Jiangxi Normal University
 
 ---
 
-2018.03.03 五倍紅寶石 为你自己学Ruby on Rails 在线书籍；
+2018.04.10 Web-Crunch 网路教学 Ruby on Rails 5个案例练习；
+
+2018.03.15 Mackenzie Child 网络教学 Ruby on Rails 12个案例练习；
+
+2018.03.03 五倍紅寶石 为你自己学 Ruby on Rails 在线书籍；
 
 2018.03.02 代码家 区块链与数字资产 内部分享；
 
@@ -396,7 +405,9 @@ Bachelor of Arts，Jiangxi Normal University
 
 ## 參與 (PARTY)
 
-2018.02.02 北京朝阳 参与 墨刀茶话会 1
+2018.03.31 北京海淀 学习 微信小程序 敏捷开发实战
+
+2018.02.02 北京朝阳 参与 墨刀茶话会
 
 2018.01.24 北京朝阳 参与 微软加速器 第10期 Demo Day活动
 

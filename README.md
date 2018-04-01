@@ -357,7 +357,7 @@ Bachelor of Arts，Jiangxi Normal University
 
 ---
 
-2018.04.10 Web-Crunch 网路教学 Ruby on Rails 5个案例练习；
+2018.04.10 Andy Leverenz 网路教学 Ruby on Rails 5个案例练习；
 
 2018.03.15 Mackenzie Child 网络教学 Ruby on Rails 12个案例练习；
 

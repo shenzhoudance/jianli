@@ -35,10 +35,15 @@
 
 2017-2018 创办才华横溢，superxschool.com /超级学校/创始人；
 
-## 出版书籍
-《撕裂式成长》、《积木式编程》
+## 电子出版
+
+《撕裂式成长》：https://github.com/shenzhoudance/caihuathink
+
+《积木式编程》：https://github.com/shenzhoudance/jimucoding
 
 ---
+
+[![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
 
 # 肖威个人简历
 

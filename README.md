@@ -37,7 +37,7 @@
 
 ## 电子出版
 
-《肖威的故事》：https://github.com/shenzhoudance/caihuathink
+《肖威的故事》：https://github.com/shenzhoudance/xiaoweiworkday
 
 《撕裂式成长》：https://github.com/shenzhoudance/caihuathink
 

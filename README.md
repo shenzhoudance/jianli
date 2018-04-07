@@ -399,6 +399,8 @@ Bachelor of Arts，Jiangxi Normal University
 
 ---
 
+2018.04.15 BarbieTechFabulous 网路教学 Ruby on Rails 1个案例练习
+
 2018.04.10 Andy Leverenz 网路教学 Ruby on Rails 5个案例练习；
 
 2018.03.15 Mackenzie Child 网络教学 Ruby on Rails 12个案例练习；
@@ -427,7 +429,7 @@ Bachelor of Arts，Jiangxi Normal University
 
 2017.10.16 孔壹学院 block-chain 线下 学习 区块链项目开发；
 
-2017.01.21 新生大学 Ruby on Rails 在线 学习 论坛网站、招聘网站、电商网站制作；
+2017.01.21 新生大学 学习 论坛网站、招聘网站、电商网站 Ruby on Rails 3个案例练习；
 
 ## 舉辦 (HOLD)
 

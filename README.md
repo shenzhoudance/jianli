@@ -37,7 +37,7 @@
 
 2017-2018 创办才华横溢;
 
-superxschool.com / SXB.com；
+superxschool.com / SXB.one；
 
 超级学校/创始人；超级币/发行人；
 
@@ -72,7 +72,7 @@ Github：https://github.com/shenzhoudance  Sina: https://weibo.com/busxiaowei
 
 # 个人简介
 
-- 才华横溢创办人兼首席执行官。创办：superxschool.com 。
+- 才华横溢创办人兼首席执行官。创办：superxschool.com 。发行超级币：SXB.one
 
 
 # 投资经历

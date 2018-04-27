@@ -426,7 +426,9 @@ Bachelor of Arts，Jiangxi Normal University
 
 ---
 
-2018.04.28 在清华大学区块链协会学习 区块链理论知识体系；
+2018.04.28 在 HiBlock 区块链社区学习 线下课程 3步开发以太坊 Dapp
+
+2018.04.16 在清华大学区块链协会学习 区块链理论知识体系；
 
 2018.04.15 BarbieTechFabulous 网路教学 Ruby on Rails 1个案例练习
 

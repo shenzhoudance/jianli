@@ -56,10 +56,10 @@
 **Github：**
 https://githubrank.com  500强选手
 
-**币乎排行榜：**
+**币乎风云榜：**
 http://www.bihubang.com/author.html 100强选手
 
-**黑客大赛:**
+**Hackathon:**
 2018年5月 亦来云首届黑客马拉松大赛 冠军
 
 

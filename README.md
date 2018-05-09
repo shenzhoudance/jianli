@@ -3,7 +3,8 @@
 
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
-[![](images/qukuailian.jpg)](www.caihuahengyi.cn)
+[![](images/chaoji.jpg)](www.caihuahengyi.cn)
+
 
 ## 肖威（才华横溢创始人、董事长兼CEO）
 
@@ -35,6 +36,10 @@
 
 2018年-2018年，在 Dapp University 学习 Dapp 的开发；
 
+2018年-2018年，在 星云链 学习 Dapp 的开发；
+
+2018年-2018年，在 TokenInsight 学习 区块链项目数据评估方法；
+
 
 ## 工作经历
 
@@ -46,6 +51,8 @@
 
 2017-2018 创办才华横溢; superxschool.com / SXB.one；超级学校/创始人；超级币/发行人；
 
+2018-2018 在区块链研习社 担任 超级演说力 讲师培训讲师；
+
 ## 投资经历
 
 才华横溢科技（北京）有限责任公司
@@ -55,12 +62,6 @@
 
 **Github：**
 https://githubrank.com  500强选手
-
-**币乎风云榜：**
-http://www.bihubang.com/author.html 100强选手
-
-**Hackathon:**
-2018年5月 亦来云首届黑客马拉松大赛 冠军
 
 
 ## 电子出版

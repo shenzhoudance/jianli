@@ -3,7 +3,7 @@
 
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
-[![](images/chaoji.jpg)](www.caihuahengyi.cn)
+[![](images/chaojili.jpg)](www.caihuahengyi.cn)
 [![](images/heike.png)](www.caihuahengyi.cn)
 
 ## 肖威（才华横溢创始人、董事长兼CEO）
@@ -51,7 +51,7 @@
 
 2017-2018 创办才华横溢; superxschool.com / SXB.one；超级学校/创始人；超级币/发行人；
 
-2018-2018 在区块链研习社 担任 超级演说力 讲师培训讲师；
+2018-2018 在区块链研习社 担任 超级演说力 特邀讲师；
 
 ## 投资经历
 
@@ -61,10 +61,13 @@
 # 社会荣誉
 
 **Github：**
+
 https://githubrank.com  400强 选手
 
 **黑客马拉松：**
-2017年10月22日 参加 上海 GoHack 比赛，荣获优秀组织奖；
+
+2017年10月22日 参加 上海 GoHack 黑客马拉松比赛，荣获优秀组织奖；
+
 2018年05月13日 参加 北京 亦来云首届黑客马拉松比赛，荣获团体三等奖；
 
 

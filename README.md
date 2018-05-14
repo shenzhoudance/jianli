@@ -4,7 +4,7 @@
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
 [![](images/chaoji.jpg)](www.caihuahengyi.cn)
-
+[![](images/heike.png)](www.caihuahengyi.cn)
 
 ## 肖威（才华横溢创始人、董事长兼CEO）
 
@@ -61,7 +61,11 @@
 # 社会荣誉
 
 **Github：**
-https://githubrank.com  500强选手
+https://githubrank.com  400强 选手
+
+**黑客马拉松：**
+2017年10月22日 参加 上海 GoHack 比赛，荣获优秀组织奖；
+2018年05月13日 参加 北京 亦来云首届黑客马拉松比赛，荣获团体三等奖；
 
 
 ## 电子出版

@@ -36,11 +36,13 @@
 
 2018年-2018年，在 Dapp University 学习 Dapp 的开发；
 
-2018年-2018年，在 星云链 学习 Dapp 的开发；
+2018年-2018年，在 nebulas.io 学习 Dapp 的开发；
 
 2018年-2018年，在 TokenInsight 线上学习 区块链项目数据评估方法；
 
 2018年-2018年，在 ddex 去中心化交易所 望京 线下查看具体运营情况；
+
+2018年-2018年，在 cryptozombies.io 线上学习 Solidity 智能合约；
 
 
 ## 工作经历
@@ -72,6 +74,8 @@ https://githubrank.com  400强 选手
 
 2018年05月13日 参加 北京 亦来云首届黑客马拉松比赛，荣获团体三等奖；
 
+## 个人作品
+
 
 ## 电子出版
 
@@ -80,6 +84,14 @@ https://githubrank.com  400强 选手
 《撕裂式成长》：https://github.com/shenzhoudance/caihuathink
 
 《积木式编程》：https://github.com/shenzhoudance/jimucoding
+
+## 联系方式
+
+微信公众号：肖威洞察
+
+新浪微博号：肖威洞察
+
+币乎媒体号：肖威
 
 ---
 

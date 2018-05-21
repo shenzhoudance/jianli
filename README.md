@@ -3,8 +3,9 @@
 
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
+[![](images/diyiming.png)](www.caihuahengyi.cn)
 [![](images/chaojili.jpg)](www.caihuahengyi.cn)
-[![](images/heike.png)](www.caihuahengyi.cn)
+
 
 ## 肖威（才华横溢创始人、董事长兼CEO）
 
@@ -76,9 +77,11 @@ https://githubrank.com  300强 选手
 
 2018年05月13日 参加 北京 亦来云首届黑客马拉松比赛，荣获团体三等奖；
 
+2018年05月20日 参加 北京 创业沙拉举办的黑客马拉松比赛，荣获团队一等奖；
+
 ## 个人作品
 
-**伊来学**：
+**起跑线**：
 
 星云链 Dapp ：一款区块链在线学习的垂直服务平台
 

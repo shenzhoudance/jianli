@@ -3,7 +3,7 @@
 
 
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
-[![](images/diyiming.png)](www.caihuahengyi.cn)
+[![](images/diyiming.jpg)](www.caihuahengyi.cn)
 [![](images/chaojili.jpg)](www.caihuahengyi.cn)
 
 

@@ -463,6 +463,7 @@ Bachelor of Arts，Jiangxi Normal University
 ❺ 支付逻辑（我们如何完成产品的支付逻辑的实现）
 
 ---
+2018.06.01 在 Youtube Skillthrive 线上课程 在Sketch中设计一个简单的登陆页面
 
 2018.04.28 在 HiBlock 区块链社区学习 线下课程 3步开发以太坊 Dapp
 

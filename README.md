@@ -5,6 +5,7 @@
 [![](images/YAN-JIANG.jpg)](www.caihuahengyi.cn)
 [![](images/diyiming.jpg)](www.caihuahengyi.cn)
 [![](images/chaojili.jpg)](www.caihuahengyi.cn)
+[![](images/quanzhan.jpg)](www.caihuahengyi.cn)
 
 
 ## 肖威（才华横溢创始人、董事长兼CEO）
@@ -51,6 +52,10 @@
 
 2018年-2018年，在 掘金 线上学习 区块链开发入门：从 0 到 1 构建基于以太坊智能合约的 ICO DApp；
 
+2018年-2018年，在 小墨与阿猴 线上学习 Final Cut Pro X，制作 Super X School 宣传片；
+
+2018-2018年，在 Skillthrive 线上学习 Sketch： 在Sketch中设计一个简单的登陆页面；
+
 
 ## 工作经历
 
@@ -63,6 +68,8 @@
 2017-2018 创办才华横溢; superxschool.com / SXB.one；超级学校/创始人；超级币/发行人；
 
 2018-2018 在区块链研习社 担任 超级演说力 特邀讲师；
+
+2018-2018 在 Hiblcok 区块松比赛中，担任检录长；
 
 ## 投资经历
 
@@ -83,11 +90,11 @@ https://githubrank.com  300强 选手
 
 2018年05月20日 参加 北京 SrartupSalad 创业沙拉举办的黑客马拉松比赛，荣获团队一等奖；
 
-## 个人作品
+2018年05月27日 参加 北京 Hiblock 区块松 黑客马拉松比赛，荣获团队二等奖；
 
-**起跑线**：
+## 团队作品
 
-星云链 Dapp ：一款区块链在线学习的垂直服务平台
+**Suoer X School**：星云链 dapp ：一款区块链在线学习的垂直服务平台；
 
 
 ## 电子出版
@@ -104,7 +111,9 @@ https://githubrank.com  300强 选手
 
 新浪微博号：肖威洞察
 
-币乎媒体号：肖威
+币乎媒体号：肖威洞察
+
+简书媒体号：肖威洞察
 
 ---
 

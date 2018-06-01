@@ -54,7 +54,7 @@
 
 2018年-2018年，在 小墨与阿猴 线上学习 Final Cut Pro X，制作 Super X School 宣传片；
 
-2018-2018年，在 Skillthrive 线上学习 Sketch： 在Sketch中设计一个简单的登陆页面；
+2018年-2018年，在 Skillthrive 线上学习 Sketch： 在Sketch中设计一个简单的登陆页面；
 
 
 ## 工作经历

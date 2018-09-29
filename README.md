@@ -413,13 +413,20 @@ https://www.zhihu.com/people/xiaoweidongcha/activities
 
 # 學歷 (Education)
 
-谷歌大学  计算机科学与人工智能 博士
+2014-2018 谷歌大学  计算机科学与人工智能 荣誉博士
 
 Computer Science and Artificial Intelligence Ph.D，Google University
 
-江西师范大学 文学学士
+2010-2014 江西师范大学 文学学士
 
 Bachelor of Arts，Jiangxi Normal University
+
+处在当下真实的职场环境当中，每一个个体最应该掌握的知识体系是：
+
+1/英语 2/计算机 3/商业 4/学术 5/人文
+
+通过掌握这些有价值的知识体系，就可以非常快速的在社会上完成社会化的立足；
+在当下知识体系封闭的世界里面，有价值的学习是改变自己命运的唯一的方法，普通的个体被货币和考试限制了能力，这是我们当下孩子们不可以成为优秀人才的关键所在！
 
 # 經歷 (Career) 求學 就業 創業 投資
 
